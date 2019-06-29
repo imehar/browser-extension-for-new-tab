@@ -2,9 +2,10 @@
  	"manifest_version": 2,
  	"name": "NewTab ToDo",
  	"version": "1.0",
-	"description": "Now take notes on your browser, just open a new tab and take notes, inspiration and write your thoughts",
+	"description": "Now take notes on your browser, just open a new tab and take notes, write quotes and your thoughts",
 	"permissions": [
-      "storage"
+      "storage",
+      "unlimitedStorage"
     ],
   	"chrome_url_overrides" : {
     	"newtab": "index.html"
