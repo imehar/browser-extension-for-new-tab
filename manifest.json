@@ -2,7 +2,7 @@
  	"manifest_version": 2,
  	"name": "NewTab ToDo",
  	"version": "1.0",
-	"description": "Now take notes on your browser, just open a new tab and take notes, write quotes and your thoughts",
+	"description": "New way to take notes, just open a new tab and take notes, jot some quotes and write your thoughts",
 	"permissions": [
       "storage",
       "unlimitedStorage"
